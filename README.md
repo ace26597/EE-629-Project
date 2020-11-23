@@ -2,6 +2,7 @@
 Machine lifetime prediction using Pi Camera and Google cloud.
 
 Technologies Used :
+
 Image processing.
 
 Data Analysis.
