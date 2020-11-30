@@ -20,6 +20,9 @@ Libraries Used:
 <p><img src='dst1.jpg' />
 
 * CSV File generation
+
+Generate CSV File using Pandas library.
+
 <p><img src='Outputs/csv.jpg' />
 
 * Regression Prediction.
@@ -35,6 +38,16 @@ Generate Graph based on Predictions.
 * Google API Configuration.
 Genreate Oauth2.0 Client ID for Web Application.
 
+https://console.developers.google.com/apis/dashboard 
+
+- Steps:
+  - Create a Project.
+  - Click on 'Enable API's and Services'.
+  - Search for Google Drive API and enable API.
+  - Click on 'Credentials'.
+  - Create 'OAuth 2.0 Client IDs'.
+  - Download JSON file after configuration.
+  
 <p><img src='Outputs/gapi.jpg' />
  
 (Download JSON file and create Pickle file containing Token which bypasses authentication for frequent use.)
@@ -43,9 +56,19 @@ Genreate Oauth2.0 Client ID for Web Application.
 * Augmented Reality.
 Create QR code for Collecting Data from cloud.
 
+https://developer.vuforia.com/vui/develop/licenses
+
+- Steps:
+  - Click on 'Target Manager'.
+  - Create Dataset and Click on 'Add Target'.
+  - Save information and Download image.
+
 <p><img src='Outputs/Machine1_cloud.jpg' />
 
-Augmented Reality Application output.
+Augmented Reality Application.
+
+<p><img src='Outputs/unity.jpeg' />
+  
 Hover mobile camera over QR code and you can supervise and watch real-time graph generation and information regarding Machine state and Lifetime Prediction.
 <p><img src='Outputs/1.jpeg' />
 <p><img src='Outputs/2.jpeg' />
