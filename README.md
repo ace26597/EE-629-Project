@@ -23,7 +23,7 @@ Libraries Used:
 <p><img src='Outputs/csv.jpg' />
 
 * Regression Prediction.
-Calculate Prognosis and Diagnosis based on collected data.
+Calculate Prognosis and Diagnosis based on collected data using ARIMA.
 <p><img src='Outputs/prognosis.png' />
 <p><img src='Outputs/diagnosis.png' />
 
