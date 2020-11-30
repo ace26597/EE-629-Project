@@ -32,7 +32,7 @@ Generate Graph based on Predictions.
 <p><img src='Outputs/op.jpg' />
 <p><img src='Graph/graph2.png' />
 
-* Google API Configuration.
+- Google API Configuration.
 Genreate Oauth2.0 Client ID for Web Application.
 
 https://console.developers.google.com/apis/dashboard 
