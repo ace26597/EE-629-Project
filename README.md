@@ -65,7 +65,7 @@ https://developer.vuforia.com/vui/develop/licenses
 
 <p><img src='Outputs/Machine1_cloud.jpg' />
 
-Augmented Reality Application.
+Unity, Vuforia Application
 
 <p><img src='Outputs/unity.jpg' />
 
