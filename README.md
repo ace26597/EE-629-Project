@@ -20,6 +20,7 @@ Time-Series Analysis.
 
 Google API.
 Genreate Oauth2.0 Client ID for Web Application.
+<p><img src='Outputs/gapi.jpg' />
 
 Augmented Reality.
 
