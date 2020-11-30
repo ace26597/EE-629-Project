@@ -8,7 +8,10 @@ Capture Images every 5 seconds using Camera module.
 
 * Image processing.
 Processing Multiple Analog Output devices such as Gauge, Thermometer, Ammeter/Voltmeter digits, etc.
-Libraries Used: OpenCV, Tesseract, PIL.
+Libraries Used: 
+  - OpenCV 
+  - Tesseract
+  - PIL.
 
 <p><img src='Image_Processing/images/gauge-1.jpg' />
   
