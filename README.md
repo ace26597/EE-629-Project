@@ -12,7 +12,10 @@ Technologies Used :
   
 <p><img src='dst1.jpg' />
   
-* Data Analysis.
+* Regression Prediction.
+<p><img src='Outputs/prognosis.png' />
+<p><img src='Outputs/diagnosis.png' />
+
 * Time-Series Analysis.
 <p><img src='Outputs/op.jpg' />
 <p><img src='Graph/graph.png' />
@@ -27,3 +30,6 @@ Genreate Oauth2.0 Client ID for Web Application.
 QR Code Assigned to Every Machine 
 <p><img src='Outputs/Machine1_cloud.jpg' />
 
+Augmented Reality Application output.
+<p><img src='Outputs/1.jpeg' />
+<p><img src='Outputs/2.jpeg' />
