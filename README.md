@@ -1,13 +1,18 @@
 # EE-629-Project
 Machine lifetime prediction using Pi Camera and Google cloud.
 
-Technologies Used :
+Technologies Used:
 
 * Internet of Things.
 Capture Images every 5 seconds using Camera module.
 
 * Image processing.
 Processing Multiple Analog Output devices such as Gauge, Thermometer, Ammeter/Voltmeter digits, etc.
+Libraries Used: 
+  - OpenCV 
+  - Tesseract
+  - PIL.
+
 <p><img src='Image_Processing/images/gauge-1.jpg' />
   
 <p><img src='Image_Processing/images/screen-prompt.jpg' />
@@ -18,19 +23,22 @@ Processing Multiple Analog Output devices such as Gauge, Thermometer, Ammeter/Vo
 <p><img src='Outputs/csv.jpg' />
 
 * Regression Prediction.
-Calculate Prognosis and Diagnosis based on collected data.
+Calculate Prognosis and Diagnosis based on collected data using ARIMA.
 <p><img src='Outputs/prognosis.png' />
 <p><img src='Outputs/diagnosis.png' />
 
 * Time-Series Analysis.
 Generate Graph based on Predictions.
 <p><img src='Outputs/op.jpg' />
-<p><img src='Graph/graph.png' />
- 
+<p><img src='Graph/graph2.png' />
 
 * Google API Configuration.
 Genreate Oauth2.0 Client ID for Web Application.
+
 <p><img src='Outputs/gapi.jpg' />
+ 
+(Download JSON file and create Pickle file containing Token which bypasses authentication for frequent use.)
+<p><img src='Outputs/pickle.jpg' />
 
 * Augmented Reality.
 Create QR code for Collecting Data from cloud.
