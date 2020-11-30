@@ -14,8 +14,9 @@ Image processing.
   
 Data Analysis.
 Time-Series Analysis.
+<p><img src='Outputs/op.jpg' />
 <p><img src='Graph/graph.png' />
-  
+ 
 
 Google API.
 Genreate Oauth2.0 Client ID for Web Application.
