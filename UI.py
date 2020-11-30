@@ -3,6 +3,8 @@ from tkinter import *
 
 from tkinter.ttk import *
 
+from pybbn.graph.edge import Edge, EdgeType
+from pybbn.graph.jointree import EvidenceBuilder
 from pybbn.graph.node import BbnNode
 
 window = Tk()
@@ -136,8 +138,7 @@ def add_bbn_nodes():
         for i in range(num_of_edges):
             edges_name_input = input("Please input the edge name (seperated by comma, e.g. P1,C1): ")
             edges_str_list = edges_name_input.split(",")
-            globals()['machine_%s' % machine_name] = globals()['machine_%s' % machine_name].add_edge(
-                Edge(globals()['%s' % edges_str_list[0]], globals()['%s' % edges_str_list[1]], EdgeType.DIRECTED))
+            globals()['machine_%s' % machine_name] = globals()['machine_%s' % machine_name].add_edge(Edge(globals()['%s' % edges_str_list[0]], globals()['%s' % edges_str_list[1]], EdgeType.DIRECTED))
 
     except:
         print("Name of edges is out of range")

@@ -6,7 +6,6 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request
 from googleapiclient.http import MediaFileUpload
 import csv
-from sklearn import datasets, linear_model
 import warnings
 import pandas as pd
 import numpy as np
@@ -54,6 +53,7 @@ def main():
                           error_action='ignore',
                           suppress_warnings=True,
                           stepwise=True)
+
     # Forecast
     n_periods = 50
     fc = None
@@ -170,7 +170,6 @@ def main():
                                         media_body=media,
                                         fields='id').execute()
     print('File ID: %s' % file.get('id'))
-
 
 if __name__ == '__main__':
     while True:
