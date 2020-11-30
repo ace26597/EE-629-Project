@@ -34,8 +34,15 @@ Generate Graph based on Predictions.
 
 * Google API Configuration.
 Genreate Oauth2.0 Client ID for Web Application.
-https://console.developers.google.com/apis/dashboard 
 
+https://console.developers.google.com/apis/dashboard 
+  - Create a Project.
+  - Click on 'Enable API's and Services'.
+  - Search for Google Drive API and enable API.
+  - Click on 'Credentials'.
+  - Create 'OAuth 2.0 Client IDs'.
+  - Download JSON file after configuration.
+  
 <p><img src='Outputs/gapi.jpg' />
  
 (Download JSON file and create Pickle file containing Token which bypasses authentication for frequent use.)
