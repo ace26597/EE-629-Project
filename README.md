@@ -7,7 +7,8 @@ Image processing.
 <p><img src='dst1.jpg' />
   
 Data Analysis.
-
+<p><img src='Graph/graph.png' />
+  
 Time-Series Analysis.
 
 Internet of Things.
