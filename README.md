@@ -24,3 +24,6 @@ Genreate Oauth2.0 Client ID for Web Application.
 
 * Augmented Reality.
 
+QR Code Assigned to Every Machine 
+<p><img src='Outputs/Machine1_cloud.jpg' />
+
