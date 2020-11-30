@@ -26,11 +26,14 @@ Calculate Prognosis and Diagnosis based on collected data.
 Generate Graph based on Predictions.
 <p><img src='Outputs/op.jpg' />
 <p><img src='Graph/graph.png' />
- 
 
 * Google API Configuration.
 Genreate Oauth2.0 Client ID for Web Application.
+
 <p><img src='Outputs/gapi.jpg' />
+ 
+(Download JSON file and create Pickle file containing Token which bypasses authentication for frequent use.)
+<p><img src='Outputs/pickle.jpg' />
 
 * Augmented Reality.
 Create QR code for Collecting Data from cloud.
