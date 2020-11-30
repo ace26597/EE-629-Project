@@ -1,13 +1,15 @@
 # EE-629-Project
 Machine lifetime prediction using Pi Camera and Google cloud.
 
-Technologies Used :
+Technologies Used:
 
 * Internet of Things.
 Capture Images every 5 seconds using Camera module.
 
 * Image processing.
 Processing Multiple Analog Output devices such as Gauge, Thermometer, Ammeter/Voltmeter digits, etc.
+Libraries Used: OpenCV, Tesseract, PIL.
+
 <p><img src='Image_Processing/images/gauge-1.jpg' />
   
 <p><img src='Image_Processing/images/screen-prompt.jpg' />
