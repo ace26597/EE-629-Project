@@ -4,9 +4,11 @@ Machine lifetime prediction using Pi Camera and Google cloud.
 Technologies Used:
 
 * Internet of Things.
+
 Capture Images every 5 seconds using Camera module.
 
 * Image processing.
+
 Processing Multiple Analog Output devices such as Gauge, Thermometer, Ammeter/Voltmeter digits, etc.
 Libraries Used: 
   - OpenCV 
