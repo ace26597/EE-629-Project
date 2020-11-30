@@ -68,7 +68,9 @@ https://developer.vuforia.com/vui/develop/licenses
 Augmented Reality Application.
 
 <p><img src='Outputs/unity.jpg' />
-  
+
+Install app in your android/IOS device.
+
 Hover mobile camera over QR code and you can supervise and watch real-time graph generation and information regarding Machine state and Lifetime Prediction.
 <p><img src='Outputs/1.jpeg' />
 <p><img src='Outputs/2.jpeg' />
