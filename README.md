@@ -65,7 +65,10 @@ https://developer.vuforia.com/vui/develop/licenses
 
 <p><img src='Outputs/Machine1_cloud.jpg' />
 
-Augmented Reality Application output.
+Augmented Reality Application.
+
+<p><img src='Outputs/unity.jpeg' />
+  
 Hover mobile camera over QR code and you can supervise and watch real-time graph generation and information regarding Machine state and Lifetime Prediction.
 <p><img src='Outputs/1.jpeg' />
 <p><img src='Outputs/2.jpeg' />
