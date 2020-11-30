@@ -37,7 +37,7 @@ Genreate Oauth2.0 Client ID for Web Application.
 
 https://console.developers.google.com/apis/dashboard 
 
-- Steps
+- Steps:
   - Create a Project.
   - Click on 'Enable API's and Services'.
   - Search for Google Drive API and enable API.
@@ -52,6 +52,13 @@ https://console.developers.google.com/apis/dashboard
 
 * Augmented Reality.
 Create QR code for Collecting Data from cloud.
+
+https://developer.vuforia.com/vui/develop/licenses
+
+- Steps:
+  - Click on 'Target Manager'.
+  - Create Dataset and Click on 'Add Target'.
+  - Save information and Download image.
 
 <p><img src='Outputs/Machine1_cloud.jpg' />
 
