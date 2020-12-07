@@ -4,9 +4,11 @@ Machine lifetime prediction using Pi Camera and Google cloud.
 Technologies Used:
 
 * Internet of Things.
+
 Capture Images every 5 seconds using Camera module.
 
 * Image processing.
+
 Processing Multiple Analog Output devices such as Gauge, Thermometer, Ammeter/Voltmeter digits, etc.
 Libraries Used: 
   - OpenCV 
@@ -26,7 +28,7 @@ Generate CSV File using Pandas library.
 <p><img src='Outputs/csv.jpg' />
 
 * Regression Prediction.
-Calculate Prognosis and Diagnosis based on collected data using ARIMA.
+Calculate Prognosis and Diagnosis Based on collected data using ARIMA.
 <p><img src='Outputs/prognosis.png' />
 <p><img src='Outputs/diagnosis.png' />
 
@@ -41,12 +43,12 @@ Genreate Oauth2.0 Client ID for Web Application.
 https://console.developers.google.com/apis/dashboard 
 
 - Steps:
-  - Create a Project.
-  - Click on 'Enable API's and Services'.
-  - Search for Google Drive API and enable API.
-  - Click on 'Credentials'.
-  - Create 'OAuth 2.0 Client IDs'.
-  - Download JSON file after configuration.
+  - Create a Project
+  - Click on 'Enable API's and Services'
+  - Search for Google Drive API and enable API
+  - Click on 'Credentials'
+  - Create 'OAuth 2.0 Client IDs'
+  - Download JSON file after configuration
   
 <p><img src='Outputs/gapi.jpg' />
  
@@ -65,10 +67,12 @@ https://developer.vuforia.com/vui/develop/licenses
 
 <p><img src='Outputs/Machine1_cloud.jpg' />
 
-Augmented Reality Application.
+Unity, Vuforia Application
 
-<p><img src='Outputs/unity.jpeg' />
-  
+<p><img src='Outputs/unity.jpg' />
+
+Install app in your android/IOS device.
+
 Hover mobile camera over QR code and you can supervise and watch real-time graph generation and information regarding Machine state and Lifetime Prediction.
 <p><img src='Outputs/1.jpeg' />
 <p><img src='Outputs/2.jpeg' />
