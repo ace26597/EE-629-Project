@@ -1,6 +1,11 @@
 # EE-629-Project
 Machine lifetime prediction using Pi Camera and Google cloud.
 
+Code Files:
+* upload_live_param1.py = Machine Learning and Cloud uploading.
+* Image Processing/arasm_live.py = Capturing image, Processing and creating Dataset based on Image processing output.
+
+
 Technologies Used:
 
 * Internet of Things.
