@@ -15,8 +15,10 @@ Libraries Used:
   - Tesseract
   - PIL.
 
-<p><img src='Image_Processing/images/gauge-1.jpg' />
+<p><img src='Image_Processing/images/ocr.jpg' />
   
+<p><img src='Image_Processing/images/gauge-1.jpg' />
+ 
 <p><img src='Image_Processing/images/screen-prompt.jpg' />
   
 <p><img src='dst1.jpg' />
