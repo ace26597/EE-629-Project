@@ -72,9 +72,9 @@ Create QR code for Collecting Data from cloud.
 https://developer.vuforia.com/vui/develop/licenses
 
 - Steps:
-  - Click on 'Target Manager'.
-  - Create Dataset and Click on 'Add Target'.
-  - Save information and Download image.
+  - Click on 'Target Manager'
+  - Create Dataset and Click on 'Add Target'
+  - Save information and Download image
 
 <p><img src='Outputs/Machine1_cloud.jpg' />
 
