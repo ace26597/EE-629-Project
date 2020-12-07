@@ -4,6 +4,10 @@ Machine lifetime prediction using Pi Camera and Google cloud.
 Technologies Used:
 
 * Internet of Things.
+  - Camera module with help of Image Processing acts as Sensors.
+  - Machine Learning module Processes the data.
+  - Results obtained from Machine Learning are then stored in Google Cloud using Googel API.
+  - Augmented Reality based application allows users to access the Data on their personal Android or IOS devices.
 
 Capture Images every 5 seconds using Camera module.
 
@@ -15,8 +19,10 @@ Libraries Used:
   - Tesseract
   - PIL.
 
-<p><img src='Image_Processing/images/gauge-1.jpg' />
+<p><img src='Outputs/ocr.jpg' />
   
+<p><img src='Image_Processing/images/gauge-1.jpg' />
+ 
 <p><img src='Image_Processing/images/screen-prompt.jpg' />
   
 <p><img src='dst1.jpg' />
