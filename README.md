@@ -85,5 +85,5 @@ Unity, Vuforia Application
 Install app in your Android/iOS device.
 
 Hover mobile camera over QR code and you can supervise and watch real-time graph generation and information regarding machine state and lifetime prediction.
-<p><img src=prognosis' />
+<p><img src='Outputs/1.jpeg' />
 <p><img src='Outputs/2.jpeg' />
